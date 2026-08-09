@@ -14,6 +14,9 @@ Currently focused on learning, building, and improving one step at a time.
   <a href="https://github.com/pmsince2006">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/prince-mathur-3099063b2/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+</a>
   <a href="mailto:princemathur1596@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="32" height="32" alt="Gmail" />
   </a>

@@ -12,10 +12,10 @@ Currently focused on learning, building, and improving one step at a time.
 
 <p align="left">
   <a href="https://github.com/pmsince2006">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub" />
   </a>
   <a href="mailto:princemathur1596@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" height="40" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="32" height="32" alt="Gmail" />
   </a>
 </p>
 

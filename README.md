@@ -31,5 +31,5 @@ Currently focused on learning, building, and improving one step at a time.
 ## GitHub Stats:
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=pmsince2006&theme=tokyonight-duo&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pmsince2006&theme=tokyonight-duo" height="180" alt="GitHub Streak" />
 </p>

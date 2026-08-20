@@ -30,6 +30,5 @@ Currently focused on learning, building, and improving one step at a time.
 
 ## GitHub Stats:
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=pmsince2006&theme=holitheme&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+## GitHub Stats:
+![](https://streak-stats.demolab.com/?user=pmsince2006&theme=holi-theme&hide_border=false)

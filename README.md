@@ -30,5 +30,4 @@ Currently focused on learning, building, and improving one step at a time.
 
 ## GitHub Stats:
 
-## GitHub Stats:
-![](https://streak-stats.demolab.com/?user=pmsince2006&theme=holi-theme&hide_border=false)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pmsince2006&theme=holi-theme" alt="GitHub Streak" /></a>
